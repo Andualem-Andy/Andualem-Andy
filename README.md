@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andualem</h1>
-<h3 align="center">React developer passionate about crafting beautiful and interactive web applications.</h3>
+<h3 align="center">I am a dedicated React developer who combines creativity and technical expertise to build immersive and user-centric web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andualem-andy&label=Profile%20views&color=0e75b6&style=flat" alt="andualem-andy" /> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **React**
+- 🌱 hands-on experience with **HTML, CSS, and JavaScript**
 
 - 👨‍💻 All of my projects are available at [Github:Andualem-Andy](Andualem-Andy)
 
