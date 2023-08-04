@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andualem</h1>
-<h3 align="center">a React developer passionate about crafting beautiful and interactive web applications.</h3>
+<h3 align="center">React developer passionate about crafting beautiful and interactive web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andualem-andy&label=Profile%20views&color=0e75b6&style=flat" alt="andualem-andy" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Github:Andualem-Andy](Github:Andualem-Andy)
+- 👨‍💻 All of my projects are available at [Github:Andualem-Andy](Andualem-Andy)
 
 - 📫 How to reach me **andualemasamenew5@gmail.com**
 
